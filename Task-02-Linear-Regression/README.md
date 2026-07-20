@@ -1,1 +1,1 @@
-#Task-02-Linear-Regression
+# Task 02 - Linear Regression
